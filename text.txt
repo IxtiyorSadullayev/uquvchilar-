@@ -1,0 +1,4 @@
+Birinchi qiladigan ish
+1. git ni o`rnatish
+2. heroku ni o`rnatish
+3. git ni o`rganish
