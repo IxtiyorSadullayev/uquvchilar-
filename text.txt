@@ -3,3 +3,4 @@ Birinchi qiladigan ish
 2. heroku ni o`rnatish
 3. git ni o`rganish
 4. Ilhomjon
+5. Ilhomjon 2
